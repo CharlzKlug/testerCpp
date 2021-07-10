@@ -1,6 +1,7 @@
 #include <iostream>
 
 #define USAGE usage (argv [0])
+int _CRT_glob = 0 ; //!!
 
 int main (int argc, char **argv) {
 
